@@ -1,0 +1,1 @@
+final kakas pengembangan perangkat lunak
